@@ -1,0 +1,35 @@
+#EXTM3U http://tecnotv.club/oct16/geomex.php?c=24|User-Agent="
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/9266325/57a3075ef17af5cc66300d2f74acae57cb47bb5e.png" group-title="INFANTIL",Cartoon Network ✅✅
+http://tecnotv.club/oct16/geomex.php?c=24|User-Agent="http://tecnotv.club/oct16/geomex.php?c=112&p=3&k=tecnotv&f=.m3u8"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png" group-title="INFANTIL",Tooncast ✅✅ 
+http://tecnotv.club/oct16/geomex.php?c=108&p=3&k=tecnotv&f=.m3u8"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL",Disney Channel✅✅
+http://tecnotv.club/oct16/geomex.php?c=113&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Disney_Junior_logo.png/800px-Disney_Junior_logo.png" group-title="INFANTIL",Disney JR ✅✅
+http://tecnotv.club/oct16/geomex.php?c=118&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/725px-Disney_XD_-_2015.svg.png" group-title="INFANTIL",Disney XD ✅✅ 
+http://tecnotv.club/oct16/geomex.php?c=111&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/discovery-kids/images/a/a3/2021-act.png/revision/latest?cb=20210608141228&path-prefix=es" group-title="INFANTIL",Discovery Kids ✅✅
+http://tecnotv.club/oct16/geomex.php?c=109&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",Natgeo Kids ✅✅ 
+http://tecnotv.club/oct16/geomex.php?c=2373&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="INFANTIL",Nick ✅✅
+http://tecnotv.club/oct16/24.php?c=41004
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png"group-title="INFANTIL",NICK 2 ✅✅
+http://tecnotv.club/oct16/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png" group-title="INFANTIL",NICKTOONS ✅✅ 
+http://tecnotv.club/oct16/geomex.php?c=1708&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/TeenNick_Logo_2017.png" group-title="INFANTIL",Teen Nick ✅✅  
+http://tecnotv.club/oct16/geomex.php?c=2147&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png" group-title="INFANTIL",Nick JR ✅✅ 
+http://tecnotv.club/oct16/geomex.php?c=117&p=3&k=tecnotv&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest?cb=20200123215611&path-prefix=es" tvg-name="Bitme" group-title="INFANTIL",Bitme ✅✅
+http://tecnotv.club/oct16/geomex.php?c=2591&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1063/boomerang/showpage/ve/showlogo.9c92fa00.png" INFANTIL",BOOTMERANG ✅✅
+http://tecnotv.club/oct16/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png"group-title="INFANTIL",sunERANG ✅✅
+http://tecnotv.club/oct16/geomex.php?c=115&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Babytv.jpg/revision/latest?cb=20160820183751&path-prefix=es" group-title="INFANTIL",BABY TV ✅✅ 
+http://tecnotv.club/oct16/geomex.php?c=116&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/250?cb=20210515091511" INFANTIL",BABY FIRST ✅✅
+http://tecnotv.club/oct16/geomex.php?c=1984&p=3&k=tecnotv&f=.m3u8
